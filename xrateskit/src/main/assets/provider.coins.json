@@ -30519,6 +30519,12 @@
       "external_id": { "coingecko": "safemoon", "cryptocompare": "SAFEMOON" }
     },
     {
+      "id": "bep20|0x52419258e3fa44deac7e670eadd4c892b480a805",
+      "code": "starship",
+      "name": "STARSHIP",
+      "external_id": { "coingecko": "starship" }
+    },
+    {
       "id": "bep20|0xa1fd60c51c0bdac1ff5bb6067a24d61441e39569",
       "code": "snbl",
       "name": "Nebula Protocol",
