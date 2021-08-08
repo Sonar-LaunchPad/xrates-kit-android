@@ -1334,7 +1334,7 @@
       "funds": ["parafi_capital"]
     },
     {
-      "code": "STARRSHIP",
+      "code": "STARSHIP",
       "name": "starship",
       "categories": ["nft"],
       "active": true,
