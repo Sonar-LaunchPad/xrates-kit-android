@@ -1334,14 +1334,14 @@
       "funds": ["parafi_capital"]
     },
     {
-      "code": "BONDLY",
-      "name": "Bondly",
+      "code": "STARRSHIP",
+      "name": "starship",
       "categories": ["nft"],
       "active": true,
       "platform": {
         "name": "ethereum",
-        "address": "0xd2dda223b2617cb616c1580db421e4cfae6a8a85",
-        "type": "ERC20"
+        "address": "0x52419258E3fa44DEAc7E670eaDD4c892B480A805",
+        "type": "BEP20"
       },
       "links": {
         "website": "https://www.bondly.finance/",
@@ -4380,7 +4380,7 @@
       },
       "rating": "",
       "id": "bep20|0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
-      "funds": ["binance_labs"]
+      "funds": []
     },
     {
       "code": "LSK",
